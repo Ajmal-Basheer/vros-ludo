@@ -1,4 +1,4 @@
-    .navbar {
+       .navbar {
         font-family: 'Kanit', sans-serif;
         letter-spacing: .25rem;
     }
@@ -45,15 +45,19 @@
         }
         .cpt{
             position: absolute;
-            top: 94%;
+            top: 63%;
             left: 67%;
         }
+        .cntnr{
+        width: 100%;
+        height: 2%;
+    }
     }
 
     .cntnr {
         background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 19, 82));
         width: 100%;
-        height: 3%;
+        height: 2%;
         color: white;
         font-family: 'Bebas Neue', cursive;
         letter-spacing: .4rem;
